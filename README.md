@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @PlusSevenWJQ
-- 👀 I’m interested in coding and debating
-- 🌱 I’m currently studying in BUPT
-- 📫 Your can reach me by email(wangjiaqi7@bupt.edu.cn) or tel(13501059669)
+👋 Hi, I'm Wang Jiaqi, currently a student at Beijing University of Posts and Telecommunications and will be studying at University College London from September 2023.
 
-<!---
-PlusSevenWJQ/PlusSevenWJQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 My research mainly focuses on computer vision and robust learning, specifically adversarial attack and defense in computer vision and fuzzy testing in deep learning.
+
+📫 You can reach me by email (wangjiaqi7@bupt.edu.cn) or phone (13501059669).
